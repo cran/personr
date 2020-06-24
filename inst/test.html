@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ personr:::test$title }}</title>
+  <link type="text/css" rel="stylesheet" href="style.css"/>
+  <meta name="viewport" content="width=device-width">
+  {{ headContent() }}
+</head>
+
+<body>
+<div class="test">
+  <header>
+    <h1>{{ personr:::test$title }}</h1>
+    <p>{{ personr:::test$instruction }}</p>
+  </header>
+  {{ personr:::htmlize_items() }}
+  {{ shiny::actionButton("submit", label = "Submit") }}
+</div>
+</body>
+</html>

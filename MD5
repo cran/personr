@@ -1,0 +1,17 @@
+a53ff329597311cc0d352cf3ea688ee7 *DESCRIPTION
+aa69d8595a326088f1608d9d506c77df *NAMESPACE
+21612981b45b4b5c3b3465663b3f189a *R/app.R
+8e944be00414bc7c20ba55f749b9f37f *R/report.R
+a90cebda56e35c4bfce9f0ba2aa40336 *R/sysdata.rda
+417eb9a23049bc8d0a38c50ea40f14fb *R/test.R
+c9ca6f781f28efab2a86cf2adb49e919 *README.md
+99bebb30c7278145464104df3530412e *inst/app/server.R
+db83b9b27c056c0b4cd20544785ba57e *inst/app/ui.R
+4dc4e771ff3bcc6296e2c80f57930cae *inst/app/www/style.css
+5f1ac4b10b03d92dd81dad7b36fe65b1 *inst/app/www/style.css.map
+e321469ad59f3cbc78fc2676c5988aa2 *inst/report.Rmd
+a5d9ccb963caa0bbbff76aad0db3e421 *inst/test.html
+ae3a8d2dc1186b9cf6398ad9a6b7da98 *man/launch_test.Rd
+c3fb8a2c945558f29f1c37ba1d9af8a9 *man/report.Rd
+9f47a762cfc6fe91b1012cdb77bb7db4 *tests/testthat.R
+8ae9a4d9e5ffbb063d2e3fb6c52b8736 *tests/testthat/test_test.R
